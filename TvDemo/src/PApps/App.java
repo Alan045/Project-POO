@@ -11,7 +11,7 @@ public class App extends JFrame {
     public static void main(String[] args) {
    
   //
-  // Fields
+  // Fields ghfghfgh
   //
     SubInterfaz Primventana = new SubInterfaz();
     Primventana.setSize(1920,1080);
